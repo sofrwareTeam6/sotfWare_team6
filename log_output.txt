@@ -1,3 +1,6 @@
+[Penguin0305] Fri May 9 00:24:28 2025 +0900 edit: -외부기능 편입 60d4464
+[betgws] Thu May 8 23:24:05 2025 +0900 edit: 유즈 다이어그램 화면에 맞춰 reqirement list 수정 f21377f
+[angela5825] Thu May 8 18:49:46 2025 +0900 edit:pdf파일 수정 2c00cbe
 [angela5825] Thu May 8 17:47:09 2025 +0900 edit:usecaseDiagram 일부 수정 00fe375
 [Penguin0305] Thu May 8 01:06:00 2025 +0900 add:- Reqruirement List/userDescription 26~31작성 및 역할분담  추가 ab62d4f
 [angela5825] Wed May 7 23:36:07 2025 +0900 add:userDescription 18-25번작성 d066060
