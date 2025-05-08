@@ -1,0 +1,16 @@
+[Penguin0305] Thu May 8 01:06:00 2025 +0900 add:- Reqruirement List/userDescription 26~31작성 및 역할분담  추가 ab62d4f
+[angela5825] Wed May 7 23:36:07 2025 +0900 add:userDescription 18-25번작성 d066060
+[user] Wed May 7 23:13:58 2025 +0900 add: userDescription 9-17번 작성 30fa7a1
+[betgws] Wed May 7 22:37:01 2025 +0900 add: userDescription 1-8번 작성 13eeba4
+[angela5825] Tue May 6 22:47:13 2025 +0900 edit: 중복 파일 삭제 42e86b4
+[angela5825] Tue May 6 22:41:48 2025 +0900 Merge branch 'main' of https://github.com/sofrwareTeam6/sotfWare_team6 a17ab38
+[angela5825] Tue May 6 22:25:52 2025 +0900 add: UseCase Description 18-25 description 추가 6168c3a
+[Penguin0305] Tue May 6 21:45:56 2025 +0900 add: 이용 내역 조회/삭제 기능, 통계 기능, 정렬기능의  Requirement List,  UseCase,  Use Case Descriptions작성 0cb88b3
+[angela5825] Tue May 6 20:14:34 2025 +0900 edit: Requirement List 일부 수정 1615eff
+[angela5825] Tue May 6 20:09:30 2025 +0900 add: UseCaseDiagram.mdj 파일 requirementList에서 25번까지 다이어그램 작성 638cac2
+[user] Tue May 6 19:51:48 2025 +0900 add: UseCaseDiagram.mdj 파일 requirementList 에서 17번까지 다이어그램 작성 0d9749b
+[betgws] Tue May 6 19:35:07 2025 +0900 add: UseCaseDiagram.mdj 파일 requirementList 에서 8번 까지 다이어그램 작성 775ffad
+[angela5825] Tue May 6 17:54:16 2025 +0900 add: -자전거 대여 정보 조 -자전거 예약대기 정보 조회/취소 -자전거 반납및 식당 예약 서비스 연계 기 -결제 및 요금 조회 기능 usecase 및 requirementlist 작성 25c8be5
+[user] Tue May 6 17:33:14 2025 +0900 add: -자전거 등록/조회/삭제 기능 -대여소 검색 기능 -상세정보 조회 및 자전거 즉시대여/예약대기 기능 60033fd
+[betgws] Tue May 6 17:25:36 2025 +0900 add: - 회원 가입 기능 - 로그인/로그아웃 기능 - 회원 탈퇴 기능 - 대여소 등록/조회/삭제 기능 usecase 및 requirement list 작성 b6fa8dc
+[betgws] Tue May 6 17:18:08 2025 +0900 Initial commit 6b2b863
